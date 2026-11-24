@@ -1,8 +1,14 @@
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/swdWuming1996/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/swdWuming1996/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
 # Monday 23 November 2026 — The World in One Image
 
 A bold poster summing up the world news of Monday 23 November 2026, drawn
 entirely from code (see `../draw_poster.py` in the work directory; the shipped
 `entry.png` is its deterministic output).
+
+Built for the [make.fun bounty "Sum up 23 November's world news in one image"](https://make.fun/bounty/news-image-20261123) — $100 in USDC, shared by the top 50 entries.
 
 ## What the image shows
 
@@ -40,3 +46,7 @@ python3 main.py
 This copies `entry.png` to `/output/entry.png` (or to
 `$MAKEFUN_OUTPUT_DIR/entry.png` when that is set). The output is 1024x1024
 PNG, under 1 MiB, and byte-identical on every run.
+
+---
+
+Referral code `0kyrzebw` — join make.fun via https://make.fun/r/0kyrzebw
